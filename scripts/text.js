@@ -1,8 +1,8 @@
 const textToMemorize = `## "Hello, thanks for applying for the internship at our company. Can you tell me a little bit about yourself and what interests you about this particular internship?"
 
-My name's Mark. I'm a self taught software developer specializing in web and game development. I've been programming since I was 13 years old, starting with cheating at video games and hosting private servers. Although I haven't had any formal industry experience yet I've been able to develop a strong skillset through personal projects and exploration.
+My name's Mark. I'm a self taught software developer specializing in web and game development. I've been programming since I was about 13 years old, and Although I haven't had any formal industry experience yet I've been able to develop a strong skillset through personal projects and exploration.
 
-At 17, I completed a diploma in Web Design and Development from a design school and after that I worked as a content creator and video editor for 10 years where I developed my skills by scripting chatbots and automating video editing and the uploading process.
+At 17, I completed a diploma in Web Design and Development from Natcoll which is a design school and after that I worked as a content creator and video editor for 10 years where I developed my skills by scripting chatbots and automating video editing and the uploading process.
 
 Currently I'm focused on game development to further sharpen my skills. I find it to be a fun and challenging way to keep learning and improving my coding abilities and there are plenty of resources available online to support my learning.
 
