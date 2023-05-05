@@ -107,6 +107,7 @@ I can bring a solid foundation of skills and knowledge to the team, as well as a
 
 const app = document.getElementById("app");
 
+//TODO: Words should be click/tap to reveal
 const processText = (text) => {
   let newText = "";
   text = text.split("\n");
